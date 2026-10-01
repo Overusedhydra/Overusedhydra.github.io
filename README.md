@@ -1,11 +1,7 @@
 # Shazar Rouf — personal website
 
-A static, single-page portfolio. Open `index.html` locally to preview it. No build step or dependencies are required.
+Live at [overusedhydra.github.io](https://overusedhydra.github.io/).
 
-## Publish on GitHub Pages
+This is a static GitHub Pages site with no build step. Edit the files in the repository root and push to `main` to update it.
 
-1. Create a public GitHub repository.
-2. Upload the files in this folder to the repository root.
-3. In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-
-The résumé link points to `resume.pdf` in this folder. This public copy omits the phone number. The site uses Google Fonts when available and falls back to local fonts offline. Contact links point to the email and LinkedIn address from the supplied résumé.
+The downloadable public résumé omits the phone number. The contact email and LinkedIn profile are visible on the website.
